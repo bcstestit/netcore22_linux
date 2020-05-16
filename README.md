@@ -1,8 +1,3 @@
-| Language | Framework | Platform | Author |
-| -------- | -------- |--------|--------|
-| ASP.NET Core | .NET Core 2.2 | Azure Web App, Virtual Machines |
-
-
 # ASP.NET Core MVC application 
 
 Sample ASP.NET Core MVC application built using Visual Studio 2017.
